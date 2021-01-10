@@ -116,3 +116,16 @@ img{
 .my-link{
   text-decoration: none;
 }
+
+
+
+/* START OF THE ABOUT US PAGE'S CSS */
+.about-img{
+  width: 50%
+}
+.block{
+  display: block;
+}
+.contact-btn{
+  margin: 20px 20px;
+}
