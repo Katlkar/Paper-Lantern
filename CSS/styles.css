@@ -1,0 +1,118 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.bg-self {
+  background-color: #17a2b8;
+}
+
+#brand-logo {
+  width: 50px;
+  margin-right: 10px;
+}
+
+#title-background-img {
+  width: 100%;
+  margin: 2rem 0;
+}
+
+.row {
+  margin: 0;
+  text-align: center;
+}
+.col-md-3{
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
+
+#title {
+  background-color: #f9f9f9;
+}
+
+#title-heading {
+  margin-top: 15rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+}
+
+#title-sub-heading {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+#navbar {
+  text-align: left;
+  margin-bottom: 54px;
+}
+
+/* facts */
+.facts {
+  background-color: #17a2b8;
+}
+
+#facts-heading {
+  padding-top: 5%;
+  font-size: 3rem;
+  color: white
+}
+
+.facts-col {
+  padding: 5% 0;
+}
+
+.icons {
+  color: white;
+  font-size: 4rem;
+  padding: 20px;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+}
+
+.fact-content {
+  color: white;
+}
+
+.division {
+  color: #17a2b8;
+  border-top: 0.75rem dotted;
+  width: 7%;
+  background-color: #ffffff;
+  margin-top: 3rem;
+}
+
+/* experiences */
+.card{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.card-title{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.card-text{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+/* suicide-help */
+.suicide-help{
+    background-color: #ffffff;
+    padding: 5% 0;
+}
+
+img{
+  width: 100%
+}
+
+.my-link{
+  text-decoration: none;
+}
